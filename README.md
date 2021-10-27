@@ -1,8 +1,6 @@
-# How to run Todo App
-## Procject recomenadation
+
+## Procject recomendation
 Create a simple todo app in either TypeScript or JavaScript and a Framework of your choice.
-
-
 
 The appliction:
 
@@ -16,12 +14,13 @@ Each task should:
   Be be easy to tell appart from the next
 
 
-This project was bootstrapped with react js .
+#This project was bootstrapped with react js and bootstrap 5.3.1 .
+# How to run Todo App
 
-## Available Scripts
+## To run the project
 
 In the project directory, you can run:
-
+##  npm install  to install dependancies
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -30,15 +29,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+# Test in the future
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
 
 ## Learn More
