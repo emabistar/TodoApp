@@ -33,6 +33,23 @@ You will also see any lint errors in the console.
 # Test in the future
 ### `npm test`
 
+##Once done the finished result should be uploaded to GitHub with a short description of:
+
+ ## Why you shose to implement the list in the way you did
+  # Fist of all the choice of the framework is based on the performance , code reuse and maintainability(scalable)
+  With react I created less code than if i could use vanila javascript because in plain javascript one needs to go trough steps in order to manupulate just one element in the DOM.
+  -As you can see i created all my elements as component that can be usefull for  maintainability and code reuse.
+  -In real world application these components can be used in different part of the application by passing the desire props and render the desire output.
+  -React requires you to break your UI into components and  be reusable.
+  
+  
+  ##How to run it
+  
+  see instruction  above
+  How to run the test and view the coverage
+  # Not done
+  ## What you would improve on it if you where to work on it again
+  I could  improve the design by adding more use friendly such as  check box to  track the status of the  task ( complete, in progress, and not completed).
 
 
 
