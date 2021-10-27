@@ -1,4 +1,20 @@
 # How to run Todo App
+## Procject recomenadation
+Create a simple todo app in either TypeScript or JavaScript and a Framework of your choice.
+
+
+
+The appliction:
+
+  A multi-line input
+  A add task buttton
+  A list of previously added tasks
+Each task should:
+
+  Show there text
+  A delete button
+  Be be easy to tell appart from the next
+
 
 This project was bootstrapped with react js .
 
@@ -28,10 +44,6 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ## Learn More
 
 
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
 
 
