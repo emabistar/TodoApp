@@ -1,3 +1,4 @@
+![alt text](https://github.com/emabistar/TodoApp/blob/main/React%20App%20(2).png?raw=true)
 
 ## Procject recomendation
 Create a simple todo app in either TypeScript or JavaScript and a Framework of your choice.
