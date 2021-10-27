@@ -28,14 +28,14 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-# Test in the future
+
+#Not done  Test in the future
 ### `npm test`
 
 ##Once done the finished result should be uploaded to GitHub with a short description of:
 
- ## Why you shose to implement the list in the way you did
+ ## Why you chose to implement the list in the way you did
   # Fist of all the choice of the framework is based on the performance , code reuse and maintainability(scalable)
   
   With react I created less code than if i could use vanila javascript because in plain javascript one needs to go trough steps in order to manupulate just one element in the DOM.
